@@ -7,6 +7,6 @@
   <default remote="github" sync-j="4" />
 
   <!-- Kernel -->
-  <project name="phytec/linux-phytec-ti" path="kernel" remote="github" revision="v5.10.168-phy3" upstream="v5.10.168-phy3"/>
+  <project name="phytec/linux-phytec-ti" path="kernel" remote="github" revision="v5.10.168-phy"/>
 
 </manifest>
